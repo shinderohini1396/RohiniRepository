@@ -3,7 +3,8 @@ package String;
 public class StringExample {
 
 	public static void main(String[] args) {
-		
+
+		System.out.println("rohini changes github");
 	/*	//charAt()
 		String name="javabykunal";
 		char c=name.charAt(4);
